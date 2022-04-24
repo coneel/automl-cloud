@@ -1,4 +1,4 @@
-# automl-cloud
-final project ids 721
-[Untitled presentation.pdf](https://github.com/coneel/automl-cloud/files/8550056/Untitled.presentation.pdf)
-![Alt text](./ProjectOverview.pdf?raw=true "Title")
+### Final Project - Autopilot Machine Learning Housing Price Predictor
+
+[ProjectOverview.pdf](https://github.com/coneel/automl-cloud/files/8550069/ProjectOverview.pdf)
+
