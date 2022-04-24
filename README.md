@@ -25,9 +25,13 @@ results.py - allows you to pull in the results from the s3 bucket to interact wi
 
 ### Files 
 housing.csv - The training data for the ML model
+
 subset.csv - A reserved portion of data to predict on 
+
 subset.csv.out - predictions on subset data
+
 SageMakerAutopilotCandidateDefinitionNotebook - Autopilot generated notebook for model training job
+
 SageMakerAutopilotDataExplorationNotebook - The autopilot generated data viz and exploration workbook. 
 
 
