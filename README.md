@@ -1,5 +1,5 @@
 # Final Project - Autopilot Machine Learning Housing Price Predictor
-
+Caleb O'Neel and Dapo Adegbile
 
 ![CloudDiagram](https://user-images.githubusercontent.com/68971919/164986388-71c3b92b-b872-41d6-b901-2388479a3d61.jpg)
 
@@ -23,5 +23,13 @@ mml.py - Interacts with the Sagemaker SDK to retreive the model and make predict
 
 results.py - allows you to pull in the results from the s3 bucket to interact with them if desired. 
 
+### Files 
+housing.csv - The training data for the ML model
+subset.csv - A reserved portion of data to predict on 
+subset.csv.out - predictions on subset data
+SageMakerAutopilotCandidateDefinitionNotebook - Autopilot generated notebook for model training job
+SageMakerAutopilotDataExplorationNotebook - The autopilot generated data viz and exploration workbook. 
+
+
 ## Future plans
-I would like to potentially incorporate an additional component that scrapes a website to give a quick blurb about daily news associated with each of the stocks. However, I have not find a great website that allows scraping for this portion of it. I would also like to create a front in interface that allows anyone to upload their portfolio and preferred message settings to receive their own messages. 
+In the future, we would like to add a front end allowing someone to upload data they want to generate predictions on, and enter an email where results can be sent to. This would make it accessible to anyone, no just tech savy people. 
